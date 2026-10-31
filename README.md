@@ -1,2 +1,8 @@
-# wimmly-tanstack-template
-Wimmly starter: TanStack Start, React, Vite, Tailwind v4, shadcn/ui, TypeScript
+# Wimmly TanStack Start App
+
+Starter project: TanStack Start, React, Vite, Tailwind CSS v4, shadcn/ui and TypeScript.
+
+```
+pnpm install
+pnpm dev
+```
