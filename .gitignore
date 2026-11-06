@@ -17,6 +17,10 @@ dist-ssr
 .nitro
 *.local
 
+# Lockfiles written by the publish install step; keeping them untracked stops
+# every publish from showing an "uncommitted change".
+package-lock.json
+
 # Secrets — never commit real keys
 .env
 .env.*
